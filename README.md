@@ -1,4 +1,4 @@
-#Spotify
+# SPOTIFY
 
 Project built using Spotify's main page as inspiration, using HTML, CSS and Java Script.
 
